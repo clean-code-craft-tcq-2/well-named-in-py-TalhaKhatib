@@ -1,5 +1,3 @@
-# Duplicate of get_pair_number_with_color.py file
-
 MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
 MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
 
